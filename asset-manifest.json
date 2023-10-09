@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ecommersApp/static/css/main.1ce96f26.css",
+    "main.js": "/ecommersApp/static/js/main.a2364981.js",
+    "static/media/slider-2.jpeg": "/ecommersApp/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
+    "static/media/fa-solid-900.ttf": "/ecommersApp/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/slider-image-1.jpeg": "/ecommersApp/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/googlestore.png": "/ecommersApp/static/media/googlestore.68b0b4ca44cc0b8e6108.png",
+    "static/media/grocery-banner.png": "/ecommersApp/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
+    "static/media/fa-brands-400.ttf": "/ecommersApp/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/slider-image-3.jpeg": "/ecommersApp/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/ecommersApp/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/grocery-banner-2.jpeg": "/ecommersApp/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/ecommersApp/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/ecommersApp/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/ecommersApp/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/ecommersApp/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/appstore.png": "/ecommersApp/static/media/appstore.8b0df72ca15eafe260fa.png",
+    "static/media/fa-regular-400.woff2": "/ecommersApp/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/amazon-pay.svg": "/ecommersApp/static/media/amazon-pay.413eb4cd9d863ed8a83a566f96075cdd.svg",
+    "static/media/freshcart-logo.svg": "/ecommersApp/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/ecommersApp/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/mastercard.svg": "/ecommersApp/static/media/mastercard.6fe5209e5a89dcb7cf7ca731be47ddf9.svg",
+    "static/media/fa-v4compatibility.woff2": "/ecommersApp/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/paypal.svg": "/ecommersApp/static/media/paypal.19814ee6ae0292786cd7b203c33b986f.svg",
+    "static/media/logo.svg": "/ecommersApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/visa.svg": "/ecommersApp/static/media/visa.0fe0f9c31770c9db04261cc4b50468e2.svg",
+    "index.html": "/ecommersApp/index.html",
+    "main.1ce96f26.css.map": "/ecommersApp/static/css/main.1ce96f26.css.map",
+    "main.a2364981.js.map": "/ecommersApp/static/js/main.a2364981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce96f26.css",
+    "static/js/main.a2364981.js"
+  ]
+}
